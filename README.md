@@ -24,7 +24,7 @@ It lets you browse and run common system info commands, view live stats, search 
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/fzsys.git
+   git clone https://github.com/cmerrill00/fzsys.git
    cd fzsys
    ```
 2. Run the install script:
